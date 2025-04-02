@@ -1,0 +1,5 @@
+[
+    { "id": 1, "nome": "iPhone 13", "prezzo": 500, "immagine": "iphone.jpg" },
+    { "id": 2, "nome": "AirPods Pro", "prezzo": 150, "immagine": "airpods.jpg" }
+]
+
